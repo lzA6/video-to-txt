@@ -1,0 +1,20 @@
+{
+  "client_type": "Ollama",
+  "ollama_model": "Qwen2.5-VL-3B-Abliterated-Caption-it.IQ4_XS.gguf:latest",
+  "api_key": "",
+  "api_url": "",
+  "api_model": "",
+  "prompt_choice": "\u5185\u5bb9\u603b\u7ed3\u4e0e\u8bc4\u4f30",
+  "custom_prompt": "",
+  "temperature": 0.5,
+  "enable_audio": false,
+  "frames_per_min": 13,
+  "max_frames": 5,
+  "context_length": 4096,
+  "enable_summary_video": true,
+  "enable_gif": true,
+  "summary_clips": 3,
+  "summary_duration": 5,
+  "gif_resolution": "\u4f4e",
+  "output_path": "analysis_results"
+}
